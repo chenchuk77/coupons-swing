@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created with XmlGrid Free Online XML Editor (http://xmlgrid.net)-->
+<Coupons>
+       <Coupon>
+              <ID>32</ID>
+              <TITLE>new monitor</TITLE>
+              <START_DATE>2015-07-01</START_DATE>
+              <END_DATE>2015-11-01</END_DATE>
+              <AMOUNT>199</AMOUNT>
+              <TYPE>ELECTRICITY</TYPE>
+              <MESSAGE>nice new monitor</MESSAGE>
+              <PRICE>700</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>41</COMPANY_ID>
+          </Coupon>
+       <Coupon>
+              <ID>33</ID>
+              <TITLE>big monitor</TITLE>
+              <START_DATE>2015-07-01</START_DATE>
+              <END_DATE>2015-12-01</END_DATE>
+              <AMOUNT>198</AMOUNT>
+              <TYPE>ELECTRICITY</TYPE>
+              <MESSAGE>nice new monitor</MESSAGE>
+              <PRICE>1400</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>41</COMPANY_ID>
+          </Coupon>
+       <Coupon>
+              <ID>53</ID>
+              <TITLE>TV</TITLE>
+              <START_DATE>2015-07-29</START_DATE>
+              <END_DATE>2015-08-29</END_DATE>
+              <AMOUNT>0</AMOUNT>
+              <TYPE>ELECTRICITY</TYPE>
+              <MESSAGE>new tv LED 42'</MESSAGE>
+              <PRICE>3500</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>6</COMPANY_ID>
+          </Coupon>
+       <Coupon>
+              <ID>55</ID>
+              <TITLE>cellphone</TITLE>
+              <START_DATE>2015-08-01</START_DATE>
+              <END_DATE>2016-01-10</END_DATE>
+              <AMOUNT>28</AMOUNT>
+              <TYPE>ELECTRICITY</TYPE>
+              <MESSAGE>Gallaxy 19</MESSAGE>
+              <PRICE>4999</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>6</COMPANY_ID>
+          </Coupon>
+       <Coupon>
+              <ID>56</ID>
+              <TITLE>shot-gun</TITLE>
+              <START_DATE>2015-10-01</START_DATE>
+              <END_DATE>2015-12-31</END_DATE>
+              <AMOUNT>0</AMOUNT>
+              <TYPE>CAMPING</TYPE>
+              <MESSAGE>dont shoot your own ass</MESSAGE>
+              <PRICE>500</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>6</COMPANY_ID>
+          </Coupon>
+       <Coupon>
+              <ID>65</ID>
+              <TITLE>abig monitor</TITLE>
+              <START_DATE>2015-07-01</START_DATE>
+              <END_DATE>2015-12-01</END_DATE>
+              <AMOUNT>199</AMOUNT>
+              <TYPE>ELECTRICITY</TYPE>
+              <MESSAGE>nice new monitor</MESSAGE>
+              <PRICE>1400</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>41</COMPANY_ID>
+          </Coupon>
+       <Coupon>
+              <ID>67</ID>
+              <TITLE>zzaver2222y old monito2r</TITLE>
+              <START_DATE>2016-07-01</START_DATE>
+              <END_DATE>2016-07-10</END_DATE>
+              <AMOUNT>200</AMOUNT>
+              <TYPE>ELECTRICITY</TYPE>
+              <MESSAGE>nice new monitor</MESSAGE>
+              <PRICE>700</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>41</COMPANY_ID>
+          </Coupon>
+       <Coupon>
+              <ID>68</ID>
+              <TITLE>zzabig monitor</TITLE>
+              <START_DATE>2016-07-01</START_DATE>
+              <END_DATE>2016-12-01</END_DATE>
+              <AMOUNT>199</AMOUNT>
+              <TYPE>ELECTRICITY</TYPE>
+              <MESSAGE>nice new monitor</MESSAGE>
+              <PRICE>1400</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>41</COMPANY_ID>
+          </Coupon>
+       <Coupon>
+              <ID>69</ID>
+              <TITLE>zzahuge monitor</TITLE>
+              <START_DATE>2016-07-01</START_DATE>
+              <END_DATE>2016-08-01</END_DATE>
+              <AMOUNT>50</AMOUNT>
+              <TYPE>ELECTRICITY</TYPE>
+              <MESSAGE>nice new monitor</MESSAGE>
+              <PRICE>3800</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>41</COMPANY_ID>
+          </Coupon>
+       <Coupon>
+              <ID>71</ID>
+              <TITLE>personal training</TITLE>
+              <START_DATE>2015-06-06</START_DATE>
+              <END_DATE>2015-12-04</END_DATE>
+              <AMOUNT>9</AMOUNT>
+              <TYPE>SPORTS</TYPE>
+              <MESSAGE>fffff</MESSAGE>
+              <PRICE>15.7</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>6</COMPANY_ID>
+          </Coupon>
+       <Coupon>
+              <ID>74</ID>
+              <TITLE>bamba</TITLE>
+              <START_DATE>2015-08-05</START_DATE>
+              <END_DATE>2015-08-30</END_DATE>
+              <AMOUNT>0</AMOUNT>
+              <TYPE>FOOD</TYPE>
+              <MESSAGE>bamba</MESSAGE>
+              <PRICE>2.5</PRICE>
+              <IMAGE></IMAGE>
+              <COMPANY_ID>46</COMPANY_ID>
+          </Coupon>
+</Coupons>
