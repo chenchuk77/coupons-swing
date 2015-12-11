@@ -110,7 +110,8 @@ public class CouponSystemJFrame extends JFrame implements ActionListener {
 		} catch (ClassNotFoundException | InstantiationException
 				| IllegalAccessException | UnsupportedLookAndFeelException e) {
 			Utils.logMessage(this, Severity.PANIC, "cannot load LookAndFeel template. exiting...");
-			System.exit(0);
+			e.printStackTrace();
+			//System.exit(0);
 		}
 
 		// load this JFrame only after initialization from properties file.
